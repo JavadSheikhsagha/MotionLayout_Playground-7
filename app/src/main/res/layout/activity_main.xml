@@ -17,7 +17,7 @@
         app:layoutDescription="@xml/activity_main_scene">
 
         <androidx.cardview.widget.CardView
-            android:backgroundTint="#F16666"
+            android:backgroundTint="#051D47"
             android:layout_width="0dp"
             android:layout_height="400dp"
             app:layout_constraintTop_toTopOf="parent"
@@ -31,9 +31,9 @@
             >
 
             <ImageView
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:src="@mipmap/ic_launcher"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/img_background"
                 android:layout_gravity="center"
                 />
 
