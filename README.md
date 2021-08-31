@@ -9,7 +9,7 @@ A bit of MotionLayout code for showing books and its description in a cool way..
 
 ## Preview
 
-![Alt Text](https://github.com/JavadSheikhsagha/MotionLayout_Playground2/blob/main/20210423_223712.gif)
+![Alt Text](https://github.com/JavadSheikhsagha/MotionLayout_Playground-7/blob/master/ezgif-6-47a900877da1.gif)
 
 
 Stay Creative ;)
